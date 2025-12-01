@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Gargi 👋  
 
-<!--
-**Gargi0117/Gargi0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student • 📊 Aspiring Data Scientist & ML Engineer • 🇮🇳 India  
 
-Here are some ideas to get you started:
+I’m currently building my foundations in **Python, Data Science, and Machine Learning**, with a long-term goal to do something useful in this feild.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+- 📚 Strengthening core skills in **Python, Data Structures, and Algorithms**
+- 🤖 Learning **Machine Learning** and basic **NLP**
+- 📊 Practicing **EDA (Exploratory Data Analysis)** on real-world datasets
+- 🧠 Solving problems from **Kaggle**, **Hackathons**, and **college projects**
+
+---
+
+## 🧩 Skills & Tech Stack
+
+**Languages**
+- Python 🐍
+- Java
+- C / C++ (academic)  
+- HTML, CSS, JavaScript (for basic web stuff)
+
+**Data & ML**
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- (Learning) Scikit-learn  
+- (Exploring) NLP basics
+
+**Tools**
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
+- Google Colab  
+
+---
+
+## 📂 Featured Work & Projects
+
+
+- 🔍 **AI Based Study Asistant**  
+  Web app that generates summary and questions from a given information.  
+  `Python • NumPy • StreamLit `
+
+
+---
+
+## 🎯 Goals
+
+- ✅ Build 3–5 solid **data science projects** in the next year  
+- ✅ Start participating regularly in **Kaggle competitions**  
+- ✅ Contribute to **open-source ML / data projects**  
+- ✅ Prepare for **internships** & **research opportunities**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: [Gargi Soni](https://www.linkedin.com/in/gargi-soni1701)  
+- 📧 Email: gargis1701@gmail.com
+  
+---
+
+> _“The best way to learn data science is by building things, breaking them, and then fixing them.”_  
