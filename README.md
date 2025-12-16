@@ -63,4 +63,4 @@ I’m currently building my foundations in **Python, Data Science, and Machine L
   
 ---
 
-> _“The best way to learn data science is by building things, breaking them, and then fixing them.”_  
+> _MY MOTTO : “The tougher you are with youself the easier life would be for you.”_  
