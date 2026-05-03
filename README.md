@@ -75,7 +75,7 @@ I'm a early-career developer who believes **great backend code is invisible** �
 ---
 
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 My Contributions 
 
 <div align="center">
 
