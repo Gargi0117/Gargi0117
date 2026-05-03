@@ -1,139 +1,130 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gargi+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+FastAPI;Build.+Develop.+Ship.+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+<!-- ANIMATED WAVE HEADER with name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gargi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=55&descSize=18" />
+
+</div>
+<!-- HERO GIF + TYPING ANIMATION -->
+<div align="center">
 
 <br/>
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS" alt="Profile Views" />
+### *"The strength of a backend is in the silence of what it carries."* 🌿
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A8EDCA&center=true&vCenter=true&width=500&lines=Hey!+I'm+Gargi+%F0%9F%91%8B;I+build+things+that+actually+ship+%F0%9F%9A%80;Python+%2B+FastAPI+%3D+%E2%9D%A4%EF%B8%8F;Open+Source+%40+FOSS+Prayagraj+%F0%9F%8C%8D;Build.+Develop.+Ship.)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## `$ whoami`
+## 🌸 About Me
 
-```python
-class Gargi:
-    def __init__(self):
-        self.name        = "Gargi"
-        self.role        = "Backend Developer"
-        self.stack       = ["Python", "FastAPI", "PostgreSQL", "Docker"]
-        self.community   = "FOSS Prayagraj 🌱"
-        self.currently   = "Building scalable backends & contributing to open source"
-        self.tagline     = "Build. Develop. Ship. 🚀"
+<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="planet coding gif" />
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = Gargi()
-me.say_hi()
+```yaml
+Name     : Gargi
+Role     : Backend Developer
+Stack    : Python 🐍 | FastAPI ⚡ | PostgreSQL 🐘
+Learning : Redis · Celery · Docker · System Design
+Goal     : Write clean APIs that scale quietly
+Mood     : git commit -m "ship it 🚀"
 ```
 
+<br/>
+
+I'm a early-career developer who believes **great backend code is invisible** — fast, reliable, and stays out of your way. I contribute to open source at **FOSS Prayagraj**, obsess over clean API design, and learn by building real things.
+
+> 💡 *Currently levelling up: FastAPI → PostgreSQL → Redis → Docker → System Design*
+
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Tech Universe
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases & Backend Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Styling & Frontend**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,git,github,linux,react,tailwind,html,css,postman,vscode&perline=7" />
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub in Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gargi0117&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A8EDCA&icon_color=A8EDCA&text_color=ffffff&include_all_commits=true&count_private=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=FFFFFF" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gargi0117&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A8EDCA&text_color=ffffff" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gargi0117&theme=midnight-purple&hide_border=true&background=0D1117&ring=A8EDCA&fire=F6C90E&currStreakLabel=A8EDCA&sideNums=ffffff&dates=8b8b8b" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gargi0117/Gargi0117/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gargi0117/Gargi0117/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Gargi0117/Gargi0117/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gargi0117/Gargi0117/output/github-snake.svg" />
 </picture>
 
 </div>
 
-> **Note:** To enable the snake animation, add this GitHub Actions workflow to your repo:
-> `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for setup.
-
 ---
 
-## 🌱 Currently
-
-```
-📌  Deepening FastAPI + PostgreSQL + JWT auth knowledge
-📌  Exploring Redis, Celery & Docker for production-ready apps
-📌  Contributing to open source at FOSS Prayagraj
-📌  Sharpening DSA skills — prefix sums, graphs, and beyond
-```
-
----
-
-## 🔗 Let's Connect
+## 🎯 Currently On My Radar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+| 🔨 Building | 📖 Learning | 🌱 Exploring |
+|:---:|:---:|:---:|
+| FastAPI REST APIs | System Design | Open Source |
+| PostgreSQL schemas | Redis + Celery | Docker + Deployment |
+| JWT Auth flows | DSA Patterns | Integrating AI  |
+
+</div>
+
+---
+
+## 🎵 Coding Vibes
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="200" alt="music vibes" />
+
+> *Code better with lo-fi beats, a warm cup of tea, and a bug you've been staring at for 3 hours* ☕
+
+</div>
+
+---
+
+## 📬 Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gargi-soni1701)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gargi0117)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargi1701@gmail.com)
+
+<br/>
+
 
 </div>
 
@@ -141,8 +132,12 @@ me.say_hi()
 
 <div align="center">
 
-*"The best code is the one that ships — and ships clean."*
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="github octocat" />
+
+<br/>
 
 **Build. Develop. Ship. 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
