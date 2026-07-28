@@ -1,19 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER with name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gargi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%E2%80%A2%20Open%20Source%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=55&descSize=18" />
+<!-- ANIMATED WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gargi&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%E2%80%A2%20Turning%20Data%20Into%20Insights%20%E2%80%A2%20Lifelong%20Learner&descAlignY=55&descSize=18"/>
 
 </div>
-<!-- HERO GIF + TYPING ANIMATION -->
+
 <div align="center">
 
-<br/>
-
-### *"The strength of a backend is in the silence of what it carries."* 🌿
+### *"Every dataset tells a story. I enjoy finding it."* 📊
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A8EDCA&center=true&vCenter=true&width=500&lines=Hey!+I'm+Gargi+%F0%9F%91%8B;I+build+things+that+actually+ship+%F0%9F%9A%80;Python+%2B+FastAPI+%3D+%E2%9D%A4%EF%B8%8F;Open+Source+%40+FOSS+Prayagraj+%F0%9F%8C%8D;Build.+Develop.+Ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A8EDCA&center=true&vCenter=true&width=550&lines=Hey!+I'm+Gargi+%F0%9F%91%8B;Data+Analyst+%F0%9F%93%8A;Python+%2B+SQL+%3D+%E2%9D%A4%EF%B8%8F;Power+BI+%7C+Excel+%7C+Tableau;Turning+Raw+Data+Into+Insights.)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,38 +19,46 @@
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="planet coding gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
 
 ```yaml
 Name     : Gargi
-Role     : Backend Developer
-Stack    : Python 🐍 | FastAPI ⚡ | PostgreSQL 🐘
-Learning : Redis · Celery · Docker · System Design
-Goal     : Write clean APIs that scale quietly
-Mood     : git commit -m "ship it 🚀"
+Role     : Data Analyst
+Stack    : Python 🐍 | SQL 🗄️ | Power BI 📊
+Learning : Pandas · NumPy · Statistics · Machine Learning
+Goal     : Transform raw data into actionable insights
+Mood     : df.groupby("success").sum() 🚀
 ```
 
 <br/>
 
-I'm a early-career developer who believes **great backend code is invisible** — fast, reliable, and stays out of your way. I contribute to open source at **FOSS Prayagraj**, obsess over clean API design, and learn by building real things.
+I'm an **early-career Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy cleaning datasets, building dashboards, uncovering trends, and solving business problems using data.
 
-> 💡 *Currently levelling up: FastAPI → PostgreSQL → Redis → Docker → System Design*
+I believe good analysis isn't about making more charts—it's about helping people make better decisions.
+
+> 💡 **Currently levelling up:** SQL → Python → Power BI → Statistics → Machine Learning
 
 <br clear="right"/>
 
 ---
 
-## ⚙️ My Tech Universe
+# ⚙️ My Analytics Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,git,github,linux,react,tailwind,html,css,postman,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,linux,vscode&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -88,30 +94,42 @@ I'm a early-career developer who believes **great backend code is invisible** �
 </div>
 
 ---
-
-## 🎯 Currently On My Radar
+# 🎯 Currently On My Radar
 
 <div align="center">
 
-| 🔨 Building | 📖 Learning | 🌱 Exploring |
-|:---:|:---:|:---:|
-| FastAPI REST APIs | System Design | Open Source |
-| PostgreSQL schemas | Redis + Celery | Docker + Deployment |
-| JWT Auth flows | DSA Patterns | Integrating AI  |
+| 📊 Analyzing | 📖 Learning | 🚀 Exploring |
+|:------------:|:-----------:|:------------:|
+| SQL Queries | Statistics | Machine Learning |
+| Data Cleaning | Pandas & NumPy | Business Intelligence |
+| Interactive Dashboards | Power BI | Data Visualization |
 
 </div>
 
 ---
 
-## 🎵 Coding Vibes
+# 📈 What I Love Working On
+
+- 📊 Data Analysis
+- 📉 Dashboard Development
+- 🐍 Python Automation
+- 🗄️ SQL Optimization
+- 📋 Business Intelligence
+- 📈 Exploratory Data Analysis (EDA)
+
+---
+
+# 🎵 Data Vibes
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="200" alt="music vibes" />
+<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="200"/>
 
-> *Code better with lo-fi beats, a warm cup of tea, and a bug you've been staring at for 3 hours* ☕
+> *Good dashboards tell stories. Great dashboards drive decisions.* 📊
 
 </div>
+
+---
 
 ---
 
@@ -136,8 +154,8 @@ I'm a early-career developer who believes **great backend code is invisible** �
 
 <br/>
 
-**Build. Develop. Ship. 🚀**
+### **Collect. Analyze. Visualize. 📊**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
